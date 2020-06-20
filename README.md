@@ -18,7 +18,7 @@ _• Light Gradient Boosting (LGBM) Algorithm_<br/>
 _• K-Means_<br/>
 _• Principal Component Analysis (PCA)_<br/>
 _• Recommendation System_<br/>
-_• Time Series Analysis (PCA)_<br/>
+_• Time Series Analysis_<br/>
 
 
 
